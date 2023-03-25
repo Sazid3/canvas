@@ -1,0 +1,103 @@
+*{margin: 0; padding: 0;}
+
+
+body{ background-color: rgba(6, 36, 7, 0.945);}
+
+.logo img{ margin-bottom: -10vh; height: 150px;  }
+
+.header{ display: flex;   }
+
+
+.write { color: aliceblue; 
+    width: 700px; 
+    font-size: 28px;
+margin: 10vh ; 
+padding: 5px;  }
+
+.me img { margin-top: -2vh; margin-left: -0vh; width: 100%;  }
+
+.input { border-radius: 6px;
+    padding: 5px; 
+    color: black; 
+    background-color: rgb(28, 250, 28); 
+    font-size: 15px; 
+    margin: 0 30px; 
+    text-decoration: none; }
+
+:hover.input{ background-color: aliceblue;  }
+
+
+.hero{ background-color: rgb(27, 255, 38); display: flex; }
+
+
+#hero-color{margin-bottom: 10px; margin-left: 125px; color: black;}
+
+
+
+
+
+
+
+
+.write img { height: 100% ; margin-top: 0; width: 100%;   }
+
+
+
+
+.input a { background-color: rgb(23, 255, 23);   
+    text-decoration: none; 
+    color: rgb(0, 0, 0); 
+    font-size: 12px; 
+    padding: 8px; 
+    border-radius: 7px; 
+    font-weight: 700; }
+
+
+    
+    .information-heading{ color: rgb(5, 224, 5); text-align: center; margin: 0; padding: 0; }
+
+    .main-info{    
+        display: flex; 
+        text-align: center;  }
+  
+    
+
+        .info1 img { margin-bottom: 0px;; padding: 10px; width: 100%;   }
+        
+        
+        
+        .whyus-header{ margin: 0; padding: 0; background-color: aliceblue; text-align: center; }
+
+
+        .whyus{ margin: 0; padding: 0; background-color: aliceblue; display: flex; }
+        
+        .whyus img{ width: 100%; }
+        
+        .icon1  { border-radius: 30px; text-align: center; background-color: rgb(243, 238, 233); }
+        .icon1 img{ margin-bottom: -10vh;  }
+         
+
+    .pragraph{ margin: 500px 230px; padding: 0; color: rgb(28, 245, 28);  text-align: center; width: 700px;  }
+       
+
+.clint{ margin: 0; padding: 0; background-color: rgb(39, 231, 39); }
+
+.clint-header{ margin: 30vh 0vh 0vh 0vh; padding: 60px 0px 5px 0px; color: aliceblue; }
+
+.clint-pra1{ margin: 5vh; padding: 5px  ; justify-content: space-around ; display: flex; }
+
+.details{ margin: 10px; padding: 10px; display: flex }
+.connect{ margin: 0; padding: 0; color: rgb(10, 204, 36);  }
+.details img { margin-top: -25vh; padding-top: 0px; width: 100%;  }
+
+
+.connect a { margin: 5vh 0vh 0vh 15vh; padding: 5px; background-color: rgb(71, 255, 47); color: rgb(5, 4, 4);  border-radius: 7px; text-decoration: none; width: 700px; }
+
+
+.adding{ margin-top: -40vh; padding: 10px; }
+
+.add{ margin: 5px; padding: 10px; }
+.add h2{ color: greenyellow;  }
+.add p { color: aliceblue;  }
+
+.add img{ margin: 2px; padding-top: 0px; width: 25px; border-radius: 25px; }
